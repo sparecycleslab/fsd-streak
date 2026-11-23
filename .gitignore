@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Spare Cycles Lab <sparecycleslab@gmail.com>
+# Author: Spare Cycles Lab <sparecycleslab@gmail.com>
+
+# Local and editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.bak-*
+.idea/
+.vscode/
+
+# Screenshots and local preview artifacts (not part of the published site)
+screenshot.png
+screenshot*.png
+*.webm
